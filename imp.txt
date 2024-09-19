@@ -1,0 +1,6 @@
+in next js
+
+
+using ...... library so foler lib is necessary
+
+inside app api foler is must with file name route.ts
